@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+.vscode/
+.idea/
+__pycache__/
+*.spec
+build/
+dist/
